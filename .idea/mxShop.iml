@@ -20,6 +20,9 @@
       <sourceFolder url="file://$MODULE_DIR$/apps/trade" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/apps/user_operation" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/apps/users" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/db_tools/data" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/db_tools" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
